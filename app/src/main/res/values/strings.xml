@@ -5,4 +5,8 @@
     <string name="go_back">Go Back</string>
     <string name="name">Name</string>
     <string name="status">Status</string>
+    <string name="exit_and_save">Exit and Save</string>
+    <string name="show_my_profile">Show My Profile</string>
+    <string name="count_to">Count to...</string>
+    <string name="show_counter">Show Counter</string>
 </resources>
